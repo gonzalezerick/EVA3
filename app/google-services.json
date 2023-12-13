@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189565211158",
+    "project_id": "prueba-3-aplicaciones-moviles",
+    "storage_bucket": "prueba-3-aplicaciones-moviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189565211158:android:316e01689d8898f8741b37",
+        "android_client_info": {
+          "package_name": "com.example.prueban3aplicacionesmoviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSshypu9Tj0718Lt7_4jz_y1UOVMh8WDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
